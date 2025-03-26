@@ -1,4 +1,4 @@
-# SMJack
+# Star Marine Jack
 Star Marine Jack. A top down 2D space shooter made using C.<br />
 I  developed this game as an educational tool for other devs who are interested in low level development and want to make a game, but do not want to bother with very basic stuff. The code has been structured and documented for others to read and learn from with hope of being able to turn it into their own game.<br />
 Please notice that all the assets that I have used myself are royalty free and their license have been written in their providing website. But, I do not share the assets with the code to avoid any legal conflicts. Therefore, I only share the link to the page of the providers of the assets at the end of the README file.
